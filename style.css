@@ -10,3 +10,18 @@ body{
 .contact_1 a{
     text-shadow: none;
 }
+.CampusLife_maindiv{
+    border: 1px solid #c7c7c7;
+    padding-left:0px;
+    padding-right: 0px;
+    float: none;
+}
+.CampusLife_maindiv img{
+    width: 30%;
+}
+.CampusLife_maindiv hr{
+    width: 230px;
+}
+.CampusLife_maindiv h5,.CampusLife_maindiv p{
+    margin-left: 20px;
+}
